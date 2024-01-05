@@ -1,18 +1,9 @@
 # Hey guys, This is Abhinay Challa! 👋
-
 ![progrmmerGIF](https://github.com/Abhinay-c/Abhinay-c/assets/95285514/eab96517-33ac-458b-927e-45cf25f1cda5)
-
 
 ## 🚀 About Me
 - I’m currently a pre-final year student at National Institute of Technology, Warangal
 - My major course is B Tech in Electrical and Electronics Engineering and minor course is Degree in Computer Science Engineering
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinay-challa/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_abhinay)
-[![instagram](https://img.shields.io/badge/instagram-DE5D83?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhinayyzz/)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinay-c&label=Profile%20views&color=0e75b6&style=flat" alt="abhinay-c" /> </p>
 
@@ -20,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/abhinay-challa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinay" height="30" width="40" /></a>
 <a href="https://twitter.com/abhinayyzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinayyzz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abhinay-challa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhinay-challa" height="30" width="40" /></a>
-<a href="https://fb.com/abhinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23175357/abhinay-challa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhinay-challa" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abhinay365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinay" height="30" width="40" /></a>
 <a href="https://instagram.com/abhinayyzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinayyzz" height="30" width="40" /></a>
 </p>
 
